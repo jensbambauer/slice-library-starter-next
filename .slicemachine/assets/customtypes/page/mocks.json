@@ -1,0 +1,37 @@
+{
+  "id": "9dff788e-b8b9-4ced-ac91-12164b1505d8",
+  "uid": "eveniet-provident-temporibus",
+  "type": "page",
+  "data": {
+    "meta_title": "grow B2C schemas",
+    "meta_description": "incubate one-to-one networks",
+    "social_cards": [
+      {
+        "social_card_image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1579931794097-0ad001e51edb?w=900&h=500&fit=crop"
+        },
+        "social_card_title": "repurpose vertical networks",
+        "social_card_description": "grow cutting-edge functionalities"
+      },
+      {
+        "social_card_image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=900&h=500&fit=crop"
+        },
+        "social_card_title": "synergize efficient eyeballs",
+        "social_card_description": "exploit 24/7 functionalities"
+      }
+    ]
+  }
+}
